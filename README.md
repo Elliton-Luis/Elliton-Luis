@@ -20,8 +20,14 @@
 - [**AlphaLanches**](https://github.com/Elliton-Luis/alphaLanches) — Sistema de Lanchonete feito para a Cantina do Colégio Sete de Setembro.
 
 ## 📊 GitHub Stats
-![Elliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliton-Luis&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Elliton-Luis&theme=tokyonight)](https://git.io/streak-stats)
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Elliton-Luis&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+   &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliton-Luis&layout=compact&theme=tokyonight&hide_border=false&custom_title=Tecnologias"/>
+</p>
+
+
 
 ## 📫 Contato
 <p align="center">
