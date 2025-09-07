@@ -19,6 +19,11 @@
 
 - [**AlphaLanches**](https://github.com/Elliton-Luis/alphaLanches) — Sistema de Lanchonete feito para a Cantina do Colégio Sete de Setembro.
 
+- [**NoSaldo**](https://github.com/Elliton-Luis/noSaldo) — Aplicação Web Para Controle Financeiro.
+
+- [**NeuroZen**](https://github.com/Elliton-Luis/NeuroZen) — Aplicação Web Sobre Saúde Mental.
+  
+
 ## 📊 GitHub Stats
 
 <p align="center">
