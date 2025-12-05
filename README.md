@@ -1,7 +1,7 @@
 # 👋 Olá! Meu nome é Elliton
 
 ## Sobre Mim
-- Desenvolvedor FullStack com foco em **PHP**, **Laravel**, **Bootstrap**, **Tailwind**, **VueJS**, **Alpine.js** e **Livewire**.  
+- Desenvolvedor FullStack com foco em **Laravel**, **Tailwind**, **VueJS** e **Livewire**.  
 - Sou apaixonado por desenvolvimento web e sempre buscando aprender novas tecnologias e boas práticas.
 
 ## 📚 Tecnologias
