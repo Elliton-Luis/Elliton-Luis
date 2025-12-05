@@ -32,11 +32,11 @@
 
 ## 📫 Contato
 <p align="center">
-  <a href="linkedin" target="_blank">
+  <a href="[linkedin](https://www.linkedin.com/in/elliton-luis-correia-da-silva-junior-9779452b3/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:email05@gmail.com">
+  <a href="mailto:ellitonluis.dev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
