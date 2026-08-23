@@ -54,11 +54,9 @@ As principais ferramentas que utilizo hoje para desenvolver e manter minhas apli
 
 ### 👾 Contribuições & Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elliton-Luis&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true"/>
-   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliton-Luis&bg_color=1C2128&title_color=A970FF&text_color=C9D1D9&layout=compact&hide_border=true" height="200" alt="Top Languages" />
-</div>
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Elliton-Luis}&theme={radical}
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Elliton-Luis}&theme={radical}
 
 <br>
 
