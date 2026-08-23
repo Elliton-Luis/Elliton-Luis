@@ -34,30 +34,18 @@ As principais ferramentas que utilizo hoje para desenvolver e manter minhas apli
 
 ### 📂 Projetos em Destaque
 
-<p>Sistemas e ferramentas que desenvolvi focando em usabilidade, gestão de dados e automação.</p>
-
-<div align="center">
-  <a href="https://github.com/Elliton-Luis/alphaLanches">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elliton-Luis&repo=alphaLanches&bg_color=1C2128&title_color=A970FF&text_color=C9D1D9&icon_color=A970FF&hide_border=true" width="450" alt="AlphaLanches" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Elliton-Luis/fintrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elliton-Luis&repo=fintrack&bg_color=1C2128&title_color=A970FF&text_color=C9D1D9&icon_color=A970FF&hide_border=true" width="450" alt="FinTrack" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Elliton-Luis/synapse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elliton-Luis&repo=synapse&bg_color=1C2128&title_color=A970FF&text_color=C9D1D9&icon_color=A970FF&hide_border=true" width="450" alt="Synapse" />
-  </a>
-</div>
+- **[AlphaLanches](https://github.com/Elliton-Luis/alphaLanches)** — Sistema de pedidos para lanchonete
+- **[FinTrack](https://github.com/Elliton-Luis/fintrack)** — Ferramenta de controle financeiro
+- **[Synapse](https://github.com/Elliton-Luis/synapse)** — Ferramenta CLI para criar commits padronizados no Git
 
 <br>
 
 ### 👾 Contribuições & Atividade
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Elliton-Luis}&theme={radical}
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Elliton-Luis}&theme={radical}
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elliton-Luis&theme=radical" alt="Stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elliton-Luis&theme=radical" alt="Profile Details" />
+</div>
 <br>
 
 ### 🔗 Contato
